@@ -1,0 +1,33 @@
+[INFO ] 2022-09-22 00:31:01.890 [main]  - Employee Updated : true
+[ERROR] 2022-09-22 00:32:12.257 [main]  - Employee Updated : false
+[INFO ] 2022-09-22 00:43:35.518 [main]  - Employee Updated : true
+[INFO ] 2022-09-22 00:48:22.001 [main]  - FirstName:Harshitha PhoneNumber:93237283
+[INFO ] 2022-09-22 00:50:03.377 [main]  - Employee Added : true
+[INFO ] 2022-09-22 00:50:19.081 [main]  - FirstName:Harshitha PhoneNumber:93237283
+[INFO ] 2022-09-22 00:52:53.412 [main]  - FirstName:Harsha PhoneNumber:9732986428
+[INFO ] 2022-09-22 00:52:53.415 [main]  - FirstName:Harshitha PhoneNumber:93237283
+[INFO ] 2022-09-22 16:14:53.328 [main]  - Employee Added : true
+[INFO ] 2022-09-22 16:15:22.999 [main]  - FirstName:Harsha Email:gorlaharsha@gmail
+[INFO ] 2022-09-22 16:15:23.011 [main]  - FirstName:Preethi Email:pre@gmail.com
+[INFO ] 2022-09-22 16:15:23.011 [main]  - FirstName:Harshitha Email:harshi@gmail.com
+[INFO ] 2022-09-22 22:22:00.663 [main]  - Employee Added : true
+[INFO ] 2022-09-22 22:22:37.472 [main]  - FirstName:h Email:h@gamil
+[INFO ] 2022-09-22 22:22:37.472 [main]  - FirstName:Harsha Email:gorlaharsha@gmail
+[INFO ] 2022-09-22 22:22:37.472 [main]  - FirstName:Preethi Email:pre@gmail.com
+[INFO ] 2022-09-22 22:22:37.472 [main]  - FirstName:Harshitha Email:harshi@gmail.com
+[INFO ] 2022-09-22 22:25:55.203 [main]  - Employee Deleted : true
+[INFO ] 2022-09-22 22:26:07.556 [main]  - FirstName:h Email:h@gamil
+[INFO ] 2022-09-22 22:26:07.556 [main]  - FirstName:Harsha Email:gorlaharsha@gmail
+[INFO ] 2022-09-22 22:26:07.556 [main]  - FirstName:Preethi Email:pre@gmail.com
+[INFO ] 2022-09-22 22:26:07.556 [main]  - FirstName:Harshitha Email:harshi@gmail.com
+[INFO ] 2022-09-22 22:39:11.655 [main]  - Employee Added : true
+[INFO ] 2022-09-22 22:39:24.137 [main]  - FirstName:Ganesh Email:ganesh@gmail
+[INFO ] 2022-09-22 22:39:24.138 [main]  - FirstName:ravi Email:ravi@gmail
+[INFO ] 2022-09-22 22:39:24.138 [main]  - FirstName:Harsha Email:gorlaharsha@gmail
+[INFO ] 2022-09-22 22:39:24.138 [main]  - FirstName:Preethi Email:pre@gmail.com
+[INFO ] 2022-09-22 22:39:24.138 [main]  - FirstName:Harshitha Email:harshi@gmail.com
+[INFO ] 2022-09-22 22:41:01.375 [main]  - Employee Deleted : true
+[INFO ] 2022-09-22 22:41:19.083 [main]  - FirstName:Ganesh Email:ganesh@gmail
+[INFO ] 2022-09-22 22:41:19.083 [main]  - FirstName:Harsha Email:gorlaharsha@gmail
+[INFO ] 2022-09-22 22:41:19.083 [main]  - FirstName:Preethi Email:pre@gmail.com
+[INFO ] 2022-09-22 22:41:19.083 [main]  - FirstName:Harshitha Email:harshi@gmail.com
